@@ -1,0 +1,1 @@
+{"name":"菜品分析大师","short_name":"菜品分析","description":"拍照识菜 · 食材解析 · 热量估算","start_url":"/","display":"standalone","background_color":"#F5F0EB","theme_color":"#F5F0EB","lang":"en","scope":"/","orientation":"portrait","icons":[{"src":"/logo-192.png","sizes":"192x192","type":"image/png"},{"src":"/logo-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
